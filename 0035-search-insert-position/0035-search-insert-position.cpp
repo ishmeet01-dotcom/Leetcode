@@ -5,8 +5,7 @@ public:
             if(nums[i]>=target){
                 return i;
             }
-            
-            
+             
         }
         return nums.size();
     }
