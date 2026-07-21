@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 ## Array
 |  |
 | ------- |
