@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1480-running-sum-of-1d-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
