@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0412-fizz-buzz](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0412-fizz-buzz) |
 ## Array
 |  |
 | ------- |
@@ -55,5 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0412-fizz-buzz) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
