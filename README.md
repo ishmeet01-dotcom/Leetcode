@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Matrix
@@ -73,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
