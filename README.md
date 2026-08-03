@@ -30,11 +30,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2498-frog-jump-ii](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2498-frog-jump-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2498-frog-jump-ii](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2498-frog-jump-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0877-stone-game) |
+## Greedy
+|  |
+| ------- |
+| [2498-frog-jump-ii](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2498-frog-jump-ii) |
 <!---LeetCode Topics End-->
