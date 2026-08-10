@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0412-fizz-buzz) |
 ## Heap (Priority Queue)
 |  |
@@ -115,4 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0011-container-with-most-water) |
 | [2498-frog-jump-ii](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2498-frog-jump-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
