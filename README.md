@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0877-stone-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Array
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Matrix
 |  |
 | ------- |
