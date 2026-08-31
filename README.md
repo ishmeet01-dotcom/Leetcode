@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2498-frog-jump-ii](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2498-frog-jump-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2498-frog-jump-ii](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2498-frog-jump-ii) |
 ## Stack
 |  |
