@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0018-4sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0075-sort-colors) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0037-sudoku-solver) |
 | [0867-transpose-matrix](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -139,10 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0051-n-queens) |
 ## Sliding Window
 |  |
@@ -152,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
