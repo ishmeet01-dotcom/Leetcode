@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0169-majority-element) |
+| [0322-coin-change](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0322-coin-change) |
 | [0867-transpose-matrix](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0322-coin-change) |
 | [0877-stone-game](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -167,4 +169,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
