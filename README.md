@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3536-maximum-product-of-two-digits](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/0137-single-number-ii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ishmeet01-dotcom/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
